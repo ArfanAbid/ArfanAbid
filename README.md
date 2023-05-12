@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋 </h1>
-<p>I'm <b>Arfan Abid</b>, a computer science student and junior programmer with a passion for building software that solves real-world problems. I'm currently pursuing my degree in computer science and honing my programming skills through personal projects and internships. 
+<p>I'm <b>Arfan Abid</b>, a computer science student and junior programmer with a passion for  solving real-world problems. I'm currently pursuing my degree in computer science and honing my programming skills through personal projects and internships. 
   <hr>
   Passionate developer exploring new technologies and programming languages. Open-source enthusiast and community contributor. Always learning, always coding.</p>
   <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
