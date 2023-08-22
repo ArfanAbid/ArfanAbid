@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arfan-abid-152217270/" target="blank"><img align="center"  alt="arfan abid" height="30" width="40" /></a>
+<a href="[in/arfan-abid-152217270](https://pk.linkedin.com/in/arfan-abid-152217270)" target="blank"><img align="center"  alt="arfan abid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
